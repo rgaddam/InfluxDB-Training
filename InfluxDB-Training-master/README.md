@@ -1,4 +1,4 @@
-# Capital One Training
+
 ## Day 1
 ### 1. Course overview and Introductions. (15-30 min) 9:00-9:30AM
 ### 2. Introduction to InfluxDB (45-60 min) 9:30-10:30AM
